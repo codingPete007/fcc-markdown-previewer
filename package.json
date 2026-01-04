@@ -1,7 +1,7 @@
 {
   "name": "fcc-markdown-previewer",
   "version": "0.1.0",
-  "homepage": "https://codingPete007.github.io/fcc-markdown-previewer",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
